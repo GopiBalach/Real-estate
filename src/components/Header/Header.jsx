@@ -4,7 +4,7 @@ import { BiMenuAltRight } from "react-icons/bi";
 import { getMenuStyles } from "../../utils/common";
 import useHeaderColor from "../../hooks/useHeaderColor";
 import OutsideClickHandler from "react-outside-click-handler";
-import AuthModal from "../Auth/AuthModal"; // Import the authentication modal
+import AuthModal from "../auth/authModal"; // Import the authentication modal
 
 const Header = () => {
   const [menuOpened, setMenuOpened] = useState(false);
