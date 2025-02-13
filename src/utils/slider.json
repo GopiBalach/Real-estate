@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Guntur",
+    "price": "4,70,430",
+    "detail": "The city is part of the Andhra Pradesh Capital Region",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Nellore Garden City",
+    "price": "6,60,353",
+    "detail": "The is city located on the banks of Penna River, in Nellore district of Andhra Pradesh, India.",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "kadapa Smart City",
+    "price": "3,50,853",
+    "detail": "The city is located in the Rayalaseema region, southern part of Andhra Pradesh, India.",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Ongole-Prakasam",
+    "price": "4,70,043",
+    "detail": "Ongole is a city in Prakasam district of the Indian state of Andhra Pradesh.",
+    "image": "./r5.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Kurnool City",
+    "price": "6,60,353",
+    "detail": "The city is often referred to as 'The Gateway of Rayalaseema'.",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Anantapur City",
+    "price": "3,50,853",
+    "detail": "Anantapur, officially Anantapuramu, is a city in Anantapur district of the Indian state of Andhra Pradesh.",
     "image": "./r3.png"
   }
 ]

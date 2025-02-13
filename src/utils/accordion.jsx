@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Get the best interest rates on the market—low, transparent, and tailored for you. Invest smart and secure your future with Veera-Farms!",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Ensure price stability with smart investments and secure deals. No fluctuations, just reliable and fair pricing!",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Smart Rates for Smart Investments",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Smart rates tailored for smart investments—maximize your returns with the best deals on the market!",
   },
 ];
 export default data;
